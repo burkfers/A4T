@@ -137,7 +137,7 @@ Skinny wire needed, read the BOM.
 | Attach your hotend                                                                                                    | <img src='docs/images/install_hotend.png' width=150> |
 | Put all the square nuts in their places for later                                                                     | <img src='docs/images/install_square_nuts.png' width=150> |
 | &nbsp; &nbsp; &nbsp;* Two under the extruder mounting points                                                          | <img src='docs/images/install_square_nuts_ext.png' width=150> |
-| &nbsp; &nbsp; &nbsp;* Two in the back behind the exturder `Xol-Carriage only`                                         | <img src='docs/images/install_square_nuts_xol-carriage.png' width=150> |
+| &nbsp; &nbsp; &nbsp;* Two in the back behind the extruder `Xol-Carriage only`                                         | <img src='docs/images/install_square_nuts_xol-carriage.png' width=150> |
 | ***Main cowl is ready, time for the extruder***                                                                       |       |
 |If you're building the WW-BMG for A4T see instructions here:|[STL/WW-BMG for A4T/README.md](<STL/WW-BMG for A4T/README.md>)|
 | Make sure you used long enough screws to hold your stepper motor to the extruder and install the 20mm standoffs behind the motor                         | <img src='docs/images/Extruder_standoffs.png' width=150> |
